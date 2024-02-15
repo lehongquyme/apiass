@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Cappuccino",
+        "content": "With Steamed Milk",
+        "money": "$ 4.20",
+        "anh": "./IMG/anhCofe3.png",
+        "add": "./ICON/btnadd.png"
+    },
+    {
+        "id": "2",
+        "name": "Cappuccino",
+        "content": "With Foam",
+        "money": "$ 4.20",
+        "anh": "./IMG/anhCofe3.png",
+        "add": "./ICON/btnadd.png"
+    },
+    {
+        "id": "3",
+        "name": "Cappuccino",
+        "content": "With Steamed Milk",
+        "money": "$ 4.20",
+        "anh": "./IMG/anhCofe3.png",
+        "add": "./ICON/btnadd.png"
+    }
+]
