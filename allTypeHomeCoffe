@@ -4,7 +4,7 @@
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
-        "anh": "./IMG/anhCofe3.png",
+        "anh": "https://i.imgur.com/uqbpzKY.png",
         "add": "https://i.imgur.com/4fJQPwF.png"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
-        "anh": "./IMG/anhCofe3.png",
+        "anh": "https://i.imgur.com/uqbpzKY.png",
         "add": "https://i.imgur.com/4fJQPwF.png"
     }
 ]
