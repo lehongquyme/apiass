@@ -1,0 +1,29 @@
+{ "user":[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "email": "johndoe@example.com",
+    "is_student": false,
+    "grades": [85, 92, 78, 90],
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zipcode": "10001"
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "city": "Los Angeles",
+    "email": "janesmith@example.com",
+    "is_student": true,
+    "grades": [88, 94, 82, 95],
+    "address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "zipcode": "90001"
+    }
+  }
+]
+}
