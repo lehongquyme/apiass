@@ -1,10 +1,9 @@
 { "user":[{
-    "name": "John Doe",
-    "age": 30,
+    "name": "Le Quy",
+    "age": 18,
     "city": "New York",
-    "email": "johndoe@example.com",
-    "is_student": false,
-    "grades": [85, 92, 78, 90],
+    "email": "quy123@gmail.com",
+    "password": "123456789q",
     "address": {
       "street": "123 Main St",
       "city": "New York",
@@ -12,12 +11,11 @@
     }
   },
   {
-    "name": "Jane Smith",
-    "age": 25,
+    "name": "Le Hong Quy",
+    "age": 20,
     "city": "Los Angeles",
-    "email": "janesmith@example.com",
-    "is_student": true,
-    "grades": [88, 94, 82, 95],
+    "email": "lehongquy123.com",
+          "password": "987654321q",
     "address": {
       "street": "456 Elm St",
       "city": "Los Angeles",
