@@ -4,29 +4,29 @@
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
-        "anh": "./IMG/anhCofe1.png",
-        "star": "./ICON/star.png",
+        "anh": "https://i.imgur.com/cVhKrZY.png",
+        "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": "4.5",
-        "add": "./ICON/btnadd.png"
+        "add": "https://i.imgur.com/4fJQPwF.png"
     },
     {
         "id": "2",
         "name": "Cappuccino",
         "content": "With Foam",
         "money": "$ 4.20",
-        "anh": "./IMG/anhCofe2.png",
-        "star": "./ICON/star.png",
+        "anh": "https://i.imgur.com/kswgZw5.png",
+        "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": "4.2",
-        "add": "./ICON/btnadd.png"
+        "add": "https://i.imgur.com/4fJQPwF.png"
     },
     {
         "id": "3",
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
-        "anh": "./IMG/anhCofe1.png",
-        "star": "./ICON/star.png",
+        "anh": "https://i.imgur.com/cVhKrZY.png",
+        "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": "4.5",
-        "add": "./ICON/btnadd.png"
+        "add": "https://i.imgur.com/4fJQPwF.png"
     }
 ]
