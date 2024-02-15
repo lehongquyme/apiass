@@ -1,5 +1,4 @@
-{ "user":[
-  {
+{ "user":[{
     "name": "John Doe",
     "age": 30,
     "city": "New York",
@@ -25,5 +24,4 @@
       "zipcode": "90001"
     }
   }
-]
-}
+]}
