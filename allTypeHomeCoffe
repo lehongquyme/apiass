@@ -1,5 +1,4 @@
-[
-    {
+[ {
         "id": "1",
         "name": "Cappuccino",
         "content": "With Steamed Milk",
@@ -22,5 +21,4 @@
         "money": "$ 4.20",
         "anh": "https://i.imgur.com/uqbpzKY.png",
         "add": "https://i.imgur.com/4fJQPwF.png"
-    }
-]
+    }]
