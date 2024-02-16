@@ -1,5 +1,5 @@
 [ {
-        "id": "1",
+        "id": 1,
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
@@ -7,7 +7,7 @@
         "add": "https://i.imgur.com/4fJQPwF.png"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Cappuccino",
         "content": "With Foam",
         "money": "$ 4.20",
@@ -15,7 +15,7 @@
         "add": "https://i.imgur.com/4fJQPwF.png"
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Cappuccino",
         "content": "With Steamed Milk",
         "money": "$ 4.20",
