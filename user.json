@@ -2,12 +2,12 @@
     "name": "Le Quy",
     "city": "New York",
     "email": "quy123@gmail.com",
-    "password": "123456789q",
+    "password": "123456789q"
   },
   {
     "name": "Le Hong Quy",
     "city": "Los Angeles",
     "email": "lehongquy123.com",
-    "password": "987654321q",
+    "password": "987654321q"
   }
 ]
