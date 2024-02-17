@@ -6,8 +6,8 @@
         "milk": "https://i.imgur.com/6VGners.png",
         "iconCofe": "https://i.imgur.com/pG5iJEO.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
-        "title": "Cappuccino",
-        "name": "With Steamed Milk",
+        "name": "Cappuccino",
+        "content": "With Steamed Milk",
         "numberStar": "4.5",
         "soluongSD": "(6,879)",
         "describe": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
@@ -19,8 +19,8 @@
         "milk": "https://i.imgur.com/6VGners.png",
         "iconCofe": "https://i.imgur.com/pG5iJEO.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
-        "title": "G7",
-        "name": "With Steamed Sugar",
+        "name": "G7",
+        "content": "With Steamed Sugar",
         "numberStar": "4.2",
         "soluongSD": "(6,879)",
         "describe": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
@@ -33,8 +33,8 @@
         "milk": "https://i.imgur.com/6VGners.png",
         "iconCofe": "https://i.imgur.com/pG5iJEO.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
-        "title": "G7",
-        "name": "With Steamed Sugar",
+        "name": "G7",
+        "content": "With Steamed Sugar",
         "numberStar": "4.3",
         "soluongSD": "(6,879)",
         "describe": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
