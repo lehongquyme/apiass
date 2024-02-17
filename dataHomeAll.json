@@ -7,7 +7,8 @@
         "anh": "https://i.imgur.com/cVhKrZY.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": 4.5,
-        "add": "https://i.imgur.com/hTxknNH.png"
+        "add": "https://i.imgur.com/hTxknNH.png",
+        "describe": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "anh": "https://i.imgur.com/kswgZw5.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": 4.2,
-        "add": "https://i.imgur.com/hTxknNH.png"
+        "add": "https://i.imgur.com/hTxknNH.png",
+        "describe": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
     },
     {
         "id": 3,
@@ -27,6 +29,7 @@
         "anh": "https://i.imgur.com/cVhKrZY.png",
         "star": "https://i.imgur.com/5nFX7hz.png",
         "numberStar": 4.5,
-        "add": "https://i.imgur.com/hTxknNH.png"
+        "add": "https://i.imgur.com/hTxknNH.png",
+        "describe": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
     }
 ]
