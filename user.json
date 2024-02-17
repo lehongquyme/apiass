@@ -1,25 +1,13 @@
 [{
     "name": "Le Quy",
-    "age": 18,
     "city": "New York",
     "email": "quy123@gmail.com",
     "password": "123456789q",
-    "address": {
-      "street": "123 Main St",
-      "city": "New York",
-      "zipcode": "10001"
-    }
   },
   {
     "name": "Le Hong Quy",
-    "age": 20,
     "city": "Los Angeles",
     "email": "lehongquy123.com",
     "password": "987654321q",
-    "address": {
-      "street": "456 Elm St",
-      "city": "Los Angeles",
-      "zipcode": "90001"
-    }
   }
 ]
